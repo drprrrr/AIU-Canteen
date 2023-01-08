@@ -1,0 +1,41 @@
+.orders {
+  margin-bottom: 25px;
+
+  .order_container {
+  }
+
+  button {
+    width: 200px;
+    height: 30px;
+    margin-left: 25px;
+    border: #2d3a1a outset 1px;
+    cursor: pointer;
+  }
+}
+
+.all_foods {
+  button {
+    width: 200px;
+    height: 30px;
+    margin-left: 25px;
+    border: #d3c280 outset 1px;
+    background: #dde767;
+    cursor: pointer;
+  }
+}
+
+.modal_inputs {
+  input {
+    width: 400px;
+    height: 40px;
+    margin: 5px;
+    padding: 3px 5px;
+  }
+}
+
+.create_title {
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
