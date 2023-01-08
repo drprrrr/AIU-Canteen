@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AIU-Canteen/static/css/main.5583fed7.css",
+    "main.js": "/AIU-Canteen/static/js/main.e2a643b8.js",
+    "static/media/alaTooLogo.png": "/AIU-Canteen/static/media/alaTooLogo.4ecca571996a1dd6750d.png",
+    "static/media/samsa.png": "/AIU-Canteen/static/media/samsa.50bcaa3078b706c1d500.png",
+    "index.html": "/AIU-Canteen/index.html",
+    "main.5583fed7.css.map": "/AIU-Canteen/static/css/main.5583fed7.css.map",
+    "main.e2a643b8.js.map": "/AIU-Canteen/static/js/main.e2a643b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5583fed7.css",
+    "static/js/main.e2a643b8.js"
+  ]
+}
